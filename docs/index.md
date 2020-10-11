@@ -17,7 +17,7 @@ border-right: 1px solid #6a6ade;
 .result .label {
 display:inline-block;
 width:200px;
-background:orange;
+background:pink;
 }
 </style>
 </head>
