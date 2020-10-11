@@ -30,13 +30,13 @@ IP:
 <input type='text' class='addr' id='q4'>
 <br>
 No. of hosts:
-<input type='text' class='addr' id='hostNum'><br>
+<input type='text' class='addr' id='hostNum'><br><br>
 No of subnet:
 <input type='text' class='addr' id='subnetNum'>
-<br>
+<br><br>
 
 
-<button onclick='calculate();'>Calculate</button><br><br>
+<button onclick='calculate();'>Calculate</button><br>
 <hr>
 <br>
 <div class='result'>
