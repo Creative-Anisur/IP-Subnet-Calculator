@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>IP Calculator</title>
@@ -23,23 +23,20 @@ background:#aaf;
 </head>
 <body>
 <h1>IP Address calculator</h1>
-IP Address
+<center>
 <input type='text' class='addr' id='q1'> .
 <input type='text' class='addr' id='q2'> .
 <input type='text' class='addr' id='q3'> .
 <input type='text' class='addr' id='q4'>
 <br>
-# of host
+How much hosts require:
 <input type='text' class='addr' id='hostNum'><br>
-# of subnet
+Prifix of subnets:
 <input type='text' class='addr' id='subnetNum'>
+</center>
 <br>
-Note:
-<br>
-Netmask will be automatically guessed using #of host first
-<br>
-# of subnet isn't really used here as the netmask is already guessed from # of host
-<br>
+
+
 <button onclick='calculate();'>Calculate</button>
 <hr>
 <div class='result'>
@@ -98,7 +95,6 @@ Netmask will be automatically guessed using #of host first
 <span class=label>Max # of Host :</span>
 <span class=value id=resMaxHost></span>
 </div>
-<div style=font-size:11px;><a href="http://asudahlah.com">By. Gemul Cybermujahidz</a></div>
 </body>
 <script type='text/javascript'>
 function calculate(){
