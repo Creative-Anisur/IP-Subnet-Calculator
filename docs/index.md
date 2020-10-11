@@ -24,12 +24,13 @@ background:#aaf;
 <body>
 <h1>IP Address calculator</h1>
 <center>
+Input IP Address:
 <input type='text' class='addr' id='q1'> .
 <input type='text' class='addr' id='q2'> .
 <input type='text' class='addr' id='q3'> .
 <input type='text' class='addr' id='q4'>
 <br>
-How much hosts require:
+Number of hosts :
 <input type='text' class='addr' id='hostNum'><br>
 Prifix of subnets:
 <input type='text' class='addr' id='subnetNum'>
@@ -37,7 +38,7 @@ Prifix of subnets:
 <br>
 
 
-<button onclick='calculate();'>Calculate</button>
+<button onclick='calculate();'>Calculate</button><br>
 <hr>
 <div class='result'>
 <span class=label>IP Address :</span>
@@ -88,11 +89,11 @@ Prifix of subnets:
 <span class=value id=resBinBC></span>
 </div>
 <div class='result'>
-<span class=label>Max # of Subnet :</span>
+<span class=label>Maximum No of Subnet :</span>
 <span class=value id=resMaxNet></span>
 </div>
 <div class='result'>
-<span class=label>Max # of Host :</span>
+<span class=label>Maximum No of Host :</span>
 <span class=value id=resMaxHost></span>
 </div>
 </body>
