@@ -24,15 +24,15 @@ background:#aaf;
 <body>
 <h1>IP Address calculator</h1>
 <center>
-Input IP Address:
+IP Address:
 <input type='text' class='addr' id='q1'> .
 <input type='text' class='addr' id='q2'> .
 <input type='text' class='addr' id='q3'> .
 <input type='text' class='addr' id='q4'>
 <br>
-Number of hosts :
+No. of hosts:
 <input type='text' class='addr' id='hostNum'><br>
-Prifix of subnets:
+No of subnet:
 <input type='text' class='addr' id='subnetNum'>
 </center>
 <br>
@@ -40,6 +40,7 @@ Prifix of subnets:
 
 <button onclick='calculate();'>Calculate</button><br>
 <hr>
+<br>
 <div class='result'>
 <span class=label>IP Address :</span>
 <span class=value id=resIP></span>
