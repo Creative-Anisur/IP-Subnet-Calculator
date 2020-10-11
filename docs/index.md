@@ -28,7 +28,7 @@ IP:
 <input type='text' class='addr' id='q2'> .
 <input type='text' class='addr' id='q3'> .
 <input type='text' class='addr' id='q4'>
-<br>
+<br><br>
 No. of hosts:
 <input type='text' class='addr' id='hostNum'><br><br>
 No of subnet:
@@ -36,9 +36,8 @@ No of subnet:
 <br><br>
 
 
-<button onclick='calculate();'>Calculate</button><br>
+<button onclick='calculate();'>Calculate</button><br><br>
 <hr>
-<br>
 <div class='result'>
 <span class=label>IP Address :</span>
 <span class=value id=resIP></span>
