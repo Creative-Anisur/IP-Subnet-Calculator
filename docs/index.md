@@ -23,8 +23,7 @@ background:#aaf;
 </head>
 <body>
 <h1>IP Address calculator</h1>
-<center>
-IP Address:
+IP:
 <input type='text' class='addr' id='q1'> .
 <input type='text' class='addr' id='q2'> .
 <input type='text' class='addr' id='q3'> .
@@ -34,11 +33,10 @@ No. of hosts:
 <input type='text' class='addr' id='hostNum'><br>
 No of subnet:
 <input type='text' class='addr' id='subnetNum'>
-</center>
 <br>
 
 
-<button onclick='calculate();'>Calculate</button><br>
+<button onclick='calculate();'>Calculate</button><br><br>
 <hr>
 <br>
 <div class='result'>
