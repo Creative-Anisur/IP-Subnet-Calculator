@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>IP Calculator</title>
+<title>IP Subnet Calculator</title>
 <style>
 body {
 font-family:monospace;
@@ -17,7 +17,7 @@ border-right: 1px solid #6a6ade;
 .result .label {
 display:inline-block;
 width:200px;
-background:#aaf;
+background:orange;
 }
 </style>
 </head>
