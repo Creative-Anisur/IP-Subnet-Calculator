@@ -22,7 +22,7 @@ background:pink;
 </style>
 </head>
 <body>
-<h1>IP Address calculator</h1>
+<h1>IP Subnet Calculator</h1>
 IP:
 <input type='text' class='addr' id='q1'> .
 <input type='text' class='addr' id='q2'> .
