@@ -11,7 +11,9 @@ font-size:16px;
 width:30px;
 }
 .result {
+border-top: 1px solid #6a6ade;
 border-bottom: 1px solid #6a6ade;
+border-left: 1px solid #6a6ade;
 border-right: 1px solid #6a6ade;
 }
 .result .label {
