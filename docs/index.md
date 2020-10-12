@@ -84,7 +84,7 @@ No of hosts:
 <span class=value id=resBinNet></span>
 </div>
 <div class='result'>
-<span class=label>Broadcast Address Binary</span>
+<span class=label>Brdcast Address Binary</span>
 <span class=value id=resBinBC></span>
 </div>
 <div class='result'>
