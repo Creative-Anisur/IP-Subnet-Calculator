@@ -30,9 +30,7 @@ IP:
 <input type='text' class='addr' id='q4'>
 <br><br>
 No. of hosts:
-<input type='text' class='addr' id='hostNum'><br><br>
-No of subnet:
-<input type='text' class='addr' id='subnetNum'>
+<input type='text' class='addr' id='hostNum'>
 <br><br>
 
 
