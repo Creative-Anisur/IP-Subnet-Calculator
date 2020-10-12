@@ -40,59 +40,59 @@ No of hosts:
 <button onclick='calculate();'>Calculate</button><br><br>
 <hr>
 <div class='result'>
-<span class=label>IP Address :</span>
+<span class=label>IP Address </span>
 <span class=value id=resIP></span>
 </div>
 <div class='result'>
-<span class=label>Subnet mask :</span>
+<span class=label>Subnet mask </span>
 <span class=value id=resMask></span>
 </div>
 <div class='result'>
-<span class=label>Subnet Id (CIDR) :</span>
+<span class=label>Subnet Prifix (CIDR) </span>
 <span class=value id=resSubnetId></span>
 </div>
 <div class='result'>
-<span class=label>Net Address :</span>
+<span class=label>Network Address </span>
 <span class=value id=resNet></span>
 </div>
 <div class='result'>
-<span class=label>Broadcast Address :</span>
+<span class=label>Broadcast Address </span>
 <span class=value id=resBC></span>
 </div>
 <div class='result'>
-<span class=label>Standard Class :</span>
+<span class=label>Standard Class </span>
 <span class=value id=resClass></span>
 </div>
 <div class='result'>
-<span class=label>Important Block :</span>
+<span class=label>Important Block </span>
 <span class=value id=resImportantBlock></span>
 </div>
 <div class='result'>
-<span class=label>Range :</span>
+<span class=label>Usable IP Range </span>
 <span class=value id=resRange></span>
 </div>
 <div class='result'>
-<span class=label>IP Binary :</span>
+<span class=label>IP Address Binary </span>
 <span class=value id=resBinIP></span>
 </div>
 <div class='result'>
-<span class=label>Mask Binary :</span>
+<span class=label>Subnet Mask Binary </span>
 <span class=value id=resBinMask></span>
 </div>
 <div class='result'>
-<span class=label>Net Address Binary :</span>
+<span class=label>Network Address Binary</span>
 <span class=value id=resBinNet></span>
 </div>
 <div class='result'>
-<span class=label>BC Address Binary :</span>
+<span class=label>Broadcast Address Binary</span>
 <span class=value id=resBinBC></span>
 </div>
 <div class='result'>
-<span class=label>Maximum No of Subnet :</span>
+<span class=label>Maximum No of Subnets</span>
 <span class=value id=resMaxNet></span>
 </div>
 <div class='result'>
-<span class=label>Maximum No of Host :</span>
+<span class=label>Maximum No of Hosts</span>
 <span class=value id=resMaxHost></span>
 </div>
 </body>
