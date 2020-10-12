@@ -33,6 +33,9 @@ No. of hosts:
 <input type='text' class='addr' id='hostNum'>
 <br><br>
 
+No of subnet:
+<input type='text' class='addr' id='subnetNum'>
+<br><br>
 
 <button onclick='calculate();'>Calculate</button><br><br>
 <hr>
