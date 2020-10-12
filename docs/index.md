@@ -33,9 +33,7 @@ IP:
 <br><br>
 No. of hosts:
 <input type='text' class='addr' id='hostNum'>
-<br><br>
 
-No of subnet:
 <input type='hidden' class='addr' id='subnetNum'>
 <br><br>
 
