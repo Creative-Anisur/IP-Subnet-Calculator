@@ -31,7 +31,7 @@ IP:
 <input type='text' class='addr' id='q3'> .
 <input type='text' class='addr' id='q4'>
 <br><br>
-No. of hosts:
+No of hosts:
 <input type='text' class='addr' id='hostNum'>
 
 <input type='hidden' class='addr' id='subnetNum'>
